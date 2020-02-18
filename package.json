@@ -1,6 +1,6 @@
 {
   "name": "npm-version-tag-test",
-  "version": "1.0.3-alpha.10",
+  "version": "1.0.3-alpha.11",
   "description": "Testing how this works",
   "main": "index.js",
   "scripts": {
