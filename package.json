@@ -3,11 +3,6 @@
   "version": "1.0.3-alpha.13",
   "description": "Testing how this works",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Tested, All set!\"",
-    "preversion": "npm test",
-    "postversion": "git push && git push --tags && rm -rf build/temp"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/gofydo/npm-version-tag-test.git"
